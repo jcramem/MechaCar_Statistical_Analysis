@@ -7,4 +7,4 @@ The goal of this project is to review the production data for AutosRUs’ newest
 
 The first aspect of analysis was a linear regression to predict the miles per gallon (MPG) of 50 prototype MechaCars based on vehicle length, vehicle weight, spoiler angle, drivetrain, and ground clearance. The results of the lineaqr regarssion are as follows: 
 
-![Linear_Regression_to_Predict_MPG](/Linear_Regression_to_Predict_MPG.png).
+![Linear Regression to Predict MPG](/Linear Regression to Predict MPG.png).

@@ -13,8 +13,8 @@ Based on the data, we can argue that vehicle length and ground clearance have a 
 
 ## Summary Statistics on Suspension Coils
 
-The next analysis was a test of suspension coil weight capacities to determine if the manufacturing process was consistent across production lots. The results of the analysis are as follows:
+The next analysis were tests of suspension coil weight capacities to determine if the manufacturing process was consistent across production lots. The results of the analysis are as follows:
 
-### Summary Statistics on Suspension Coils 
+### Test 1: All Lots 
 
 ![PSI_Total_Summary](/PSI_Total_Summary.png).

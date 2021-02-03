@@ -41,7 +41,10 @@ For the results above, a p-value above our chosen significance level of 0.05 per
 
 ## Study Design: MechaCar vs Competition
 
-A suggestion for further study would be to compare the performance of the MechaCar vehicles against the performance of vehicles from other manufacturers in these areas: miles per gallon, cost, and longevity. Specifically, the hypotheses to be tested are as follows:
+A suggestion for further study would be to compare the performance of the MechaCar vehicles against the performance of vehicles from other manufacturers with respect to longevity. Specifically, the hypothesis would be as follows:
 
+* There is a statistical difference between the average number of years on the road of MechaCar vehicles and the average number of years on the road of all vehicles in general. 
 
+To test the hypothesis, a t-test would show if the average number of years passed since production for MechaCar vehicles is greater than average number of years passed since production for all vehicles. 
 
+To complete the test, data on cars for sale in good working condition would be needed as well as the number of cars originally produced by each manufacturer for each given year.

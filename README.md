@@ -21,11 +21,11 @@ The next analysis looked at descriptive statistics of suspension coil weight cap
 #### Descriptive Statistics by Lot
 ![PSI_Lot_Summary](/PSI_Lot_Summary.png).
 
-The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. At first glance, results for all lots combined suggest that this standard was met. A closer look by lot, however, shows that total performance was driven by Lots 1 and 2. Lot 3 did not meet the standard. The manufacturing process was not consistent across production lots.
+The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. At first glance, results for all lots combined suggest that this standard was met. A closer look by lot, however, shows that total performance was driven by lots 1 and 2. Lot 3 did not meet the standard. The manufacturing process was not consistent across production lots.
 
 ## T-Tests on Suspension Coils
 
-A final analysis employed t-tests to determine if the suspension coils for all manufacturing lots and each lot individually were statistically different from the population mean of 1,500 pounds per square inch. The results of the analysis were as follows: 
+A final analysis employed t-tests to determine if the suspension coils for all manufacturing lots and each lot individually were statistically different from the population mean of 1,500 pounds per square inch (PSI). The results of the analysis were as follows: 
 
 #### T-Test for All Lots 
 ![TTest_All_Lots](/TTest_All_Lots.png).
@@ -37,4 +37,4 @@ A final analysis employed t-tests to determine if the suspension coils for all m
 #### T-Test - Lot 3
 ![TTest_Lot3](/TTest_Lot3.png).
 
-
+One function of a t-test is to determine if there is a statistical difference between the observed sample mean and its presumed population mean. For the results above, a p-value above our chosen significance level of 0.05 percent suggests that we do not have sufficient evidence to reject the null hypothesis. That is, we would argue that the two means are statistically similar. Using this approach, the mean PSI for all lots and lost 1 and 2 

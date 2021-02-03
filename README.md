@@ -16,7 +16,6 @@ Based on the data, we can argue that vehicle length and ground clearance have a 
 The next analysis looked at descriptive statistics of suspension coil weight capacities to determine if the manufacturing process was consistent across production lots. The results of the analysis are as follows:    
 
 #### Descriptive Statistics for All Lots 
-
 ![PSI_Total_Summary](/PSI_Total_Summary.png).
 
 #### Descriptive Statistics by Lot
@@ -29,7 +28,10 @@ The design specifications for the MechaCar suspension coils dictate that the var
 
 A final analysis employed t-tests to determine if the suspension coils for all manufacturing lots and each lot individually were statistically different from the population mean of 1,500 pounds per square inch. The results of the analysis were as follows: 
 
+#### Descriptive Statistics for All Lots 
 ![TTest_All_Lots](/TTest_All_Lots.png).
+
+#### Descriptive Statistics for All Lots 
 ![TTest_Lot1](/TTest_Lot1.png).
 ![TTest_Lot2](/TTest_Lot2.png).
 ![TTest_Lot3](/TTest_Lot3.png).

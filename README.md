@@ -37,4 +37,11 @@ A final analysis employed t-tests to determine if the suspension coils for all m
 #### T-Test - Lot 3
 ![TTest_Lot3](/TTest_Lot3.png).
 
-One function of a t-test is to determine if there is a statistical difference between the observed sample mean and its presumed population mean. For the results above, a p-value above our chosen significance level of 0.05 percent suggests that we do not have sufficient evidence to reject the null hypothesis. That is, we would argue that the two means are statistically similar. Using this approach, the mean PSI for all lots and lots 1 and 2 are similar to the population mean and the mean PSI for lot 3 is not.  
+For the results above, a p-value above our chosen significance level of 0.05 percent suggests that we do not have sufficient evidence to reject the null hypothesis. That is, we would argue that the two means are statistically similar. Using this approach, the mean PSI for all lots and lots 1 and 2 are similar to the population mean and the mean PSI for lot 3 is not.  
+
+## Study Design: MechaCar vs Competition
+
+A suggestion for further study would be to compare the performance of the MechaCar vehicles against the performance of vehicles from other manufacturers in these areas: miles per gallon, cost, and longevity. Specifically, the hypotheses to be tested are as follows:
+
+
+
